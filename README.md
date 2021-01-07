@@ -45,7 +45,7 @@ At this profile you can follow my journey 👣 from my very first steps to my la
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaMA96&layout=compact)](https://github.com/AnaMA96/github-readme-stats)
 
 
-### Contact me!: 
+### Contact me!: <img src="https://www.animatedimages.org/data/media/325/animated-telephone-image-0081.gif" width="60px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ana_Murillo_Amores-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/anamurilloamores/)](https://www.linkedin.com/in/anamurilloamores/)
 [![Gmail Badge](https://img.shields.io/badge/-ana_murillo_amores@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ana_murillo_amores@hotmail.com)](mailto:'ana_murillo_amores@hotmail.com')
